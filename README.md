@@ -11,80 +11,80 @@
 #### Установка Windows
 
 1. Через "BIOS" откройте "Boot Menu" (на фото пример с Lenovo IP Gaming 3)  
-&nbsp;<img style="max-width: 400px;" src="./Images/InstallingWindows/1.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/1.jpg">
 2. В открывшемся меню выбираем флешку с Windows (здесь выбирается флешка "EFI USB Device (General USB Flash Disk)")  
-&nbsp;<img src="./Images/InstallingWindows/2.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/2.jpg">
 3. Затем откроется меню установщика Windows, где нужно выбрать нужные языки и нажать кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/3.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/3.jpg">
 4. В открывшемся окне нажмите на кнопку "Установить"  
-&nbsp;<img src="./Images/InstallingWindows/4.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/4.jpg">
 5. В окне с активацией Windows жмете на кнопку "У меня нет ключа продукта"  
-&nbsp;<img src="./Images/InstallingWindows/5.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/5.jpg">
 6. Выбираете операционную систему, которую хотите установить и нажимаете на кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/6.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/6.jpg">
 7. Принимаете соглашение и нажимаете на кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/7.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/7.jpg">
 8. Выбираете тип установки "Выборочная: только установка Windows (для опытных пользователей)"  
-&nbsp;<img src="./Images/InstallingWindows/8.jpg">  
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/8.jpg">  
 9. Форматируете все диски нажатием на нужный диск, а затем на кнопку "Форматировать"   
-&nbsp;<img src="./Images/InstallingWindows/9.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/9.jpg">
 10. Сочетанием клавишь "Shift + F10" (для некоторых ноутбуков "Shift + Fn + F10"), запускаете командную строку   
-&nbsp;<img src="./Images/InstallingWindows/10.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/10.jpg">
 11. В консоли вводите команду "diskpart" и нажимаете клавишу "Enter"   
-&nbsp;<img src="./Images/InstallingWindows/11.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/11.jpg">
 12. В консоли вводите команду "list disk" и нажимаете клавишу "Enter"   
-&nbsp;<img src="./Images/InstallingWindows/12.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/12.jpg">
 13. В консоль выведутся все диски компьютера (в моем случае диск с 476 гигабайтами, на который будет установлена Windows и диск на 14 гигабайт, на котором находится установщик Windows). Найдите номер диска, на который хотите установить Windows (в моем случае это "0"). В консоль введите команду "select disk N", где N - это номер диска (в моем случае было введено "select disk 0"). Нажмите клавишу "Enter"   
-&nbsp;<img src="./Images/InstallingWindows/13.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/13.jpg">
 14. Введите в консоль "clean" и нажмите клавишу "Enter"   
-&nbsp;<img src="./Images/InstallingWindows/14.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/14.jpg">
 15. Закройте консоль нажав на красный крестик в правом верхнем углу   
-&nbsp;<img src="./Images/InstallingWindows/15.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/15.jpg">
 16. Нажмите на кнопку "Обновить"   
-&nbsp;<img src="./Images/InstallingWindows/16.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/16.jpg">
 17. После проделанных действий диск будет полностью отформатирован, с диска будут удалены ненужные директории. Нажмите на кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/17.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/17.jpg">
 18. После этого начнется установка Windows. Дождитесь, когда Windows будет установлена  
-&nbsp;<img src="./Images/InstallingWindows/18.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/18.jpg">
 
 #### Настройка Windows
 
 1. Выберете страну и нажмите на кнопку "Да"  
-&nbsp;<img src="./Images/InstallingWindows/19.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/19.jpg">
 2. Выберете раскладку клавиатуры и нажмите на кнопку "Да"  
-&nbsp;<img src="./Images/InstallingWindows/20.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/20.jpg">
 3. В открывшемся окне нажмите на кнопку "Пропустить"  
-&nbsp;<img src="./Images/InstallingWindows/21.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/21.jpg">
 4. Подключитесь к нужному Wifi и нажмите на кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/22.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/22.jpg">
 5. Нажмите кнопку "Пока пропустить"  
-&nbsp;<img src="./Images/InstallingWindows/23.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/23.jpg">
 6. В разделе "Выбор способа настройки устройства" выберете пункт "Настроить для личного использования"  
-&nbsp;<img src="./Images/InstallingWindows/24.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/24.jpg">
 7. Нажмите кнопку "Войти"  
-&nbsp;<img src="./Images/InstallingWindows/25.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/25.jpg">
 8. Введите адрес электронной почты и нажмите кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/26.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/26.jpg">
 9. Введите пароль и нажмите кнопку "Вход"  
-&nbsp;<img src="./Images/InstallingWindows/27.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/27.jpg">
 10. Снова введите адрес электронной почты и нажмите кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/28.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/28.jpg">
 11. Введите код безопасности, который пришел вам на почту и нажмите кнопку "Далее"  
-&nbsp;<img src="./Images/InstallingWindows/29.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/29.jpg">
 12. Нажмите на кнопку "Создать ПИН-код"  
-&nbsp;<img src="./Images/InstallingWindows/30.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/30.jpg">
 13. Введите ПИН-код и нажмите на кнопку "Ок"  
-&nbsp;<img src="./Images/InstallingWindows/31.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/31.jpg">
 14. Снимите все галочки на странице "Выберете параметры конфиденциальности для этого устройства" и нажмите кнопку "Принять"  
-&nbsp;<img src="./Images/InstallingWindows/32.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/32.jpg">
 15. Нажмите на кнопку "Пропустить"  
-&nbsp;<img src="./Images/InstallingWindows/33.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/33.jpg">
 16. Нажмите на кнопку "Пропустить"  
-&nbsp;<img src="./Images/InstallingWindows/34.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/34.jpg">
 17. Дождитесь загрузки Windows  
-&nbsp;<img src="./Images/InstallingWindows/35.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/35.jpg">
 18. После проделанных действий откроется рабочий стол Windows
-&nbsp;<img src="./Images/InstallingWindows/36.jpg">
+&nbsp;<img style="width:400px" src="./Images/InstallingWindows/36.jpg">
 
 ### Настроить Google Chrome
 
@@ -102,7 +102,7 @@
     * Внешний вид
     * Панель закладок
 * Добавить все нужные закладки  
-  <img src="./Images/CustomizeGoogleChrome/1.png">
+  <img style="width:400px" src="./Images/CustomizeGoogleChrome/1.png">
 * Зайти во все аккаунты на сайтах в закладках
 * Скачать расширение для rutracker.org [[Скачать](https://chrome.google.com/webstore/detail/%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D1%80%D1%83%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80%D1%83/lbdmhpkmonokeldelekgfefldfboblbj/related?hl=ru)]
 * Скрыть ярлыки на главной
@@ -215,7 +215,7 @@
         * Поведение панели задач
         * Выравнивание панели : слева
     5. Оставить только значки
-    <img src="./Images/\CustomizingWindowsAppearance/1.png">
+    <img style="width:400px" src="./Images/\CustomizingWindowsAppearance/1.png">
 * Изменить пуск
     * Открепить от начального экрана все приложения
     * Изменить настройки
