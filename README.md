@@ -1,11 +1,3 @@
-<head>
-<style>
-    img {
-        max-width: 400px;
-}
-</style>
-</head>
-
 # Настройка после переустановки
 
 ## Настройка Windows
@@ -19,7 +11,7 @@
 #### Установка Windows
 
 1. Через "BIOS" откройте "Boot Menu" (на фото пример с Lenovo IP Gaming 3)  
-&nbsp;<img src="./Images/InstallingWindows/1.jpg">
+&nbsp;<img style="max-width: 400px" src="./Images/InstallingWindows/1.jpg">
 2. В открывшемся меню выбираем флешку с Windows (здесь выбирается флешка "EFI USB Device (General USB Flash Disk)")  
 &nbsp;<img src="./Images/InstallingWindows/2.jpg">
 3. Затем откроется меню установщика Windows, где нужно выбрать нужные языки и нажать кнопку "Далее"  
