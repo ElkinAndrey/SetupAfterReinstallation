@@ -1,9 +1,10 @@
+<head>
 <style>
-img {
-    max-width: 400px;
+    img {
+        max-width: 400px;
 }
-
 </style>
+</head>
 
 # Настройка после переустановки
 
