@@ -170,6 +170,12 @@
     * Войти в аккаунт an...ir@gmail.com
 * Epic Games [[Скачать](https://www.epicgames.com/store/ru/)]
     * Войти в аккаунт...
+* Explorer Patcher [[Скачать](https://github.com/valinet/ExplorerPatcher/releases/tag/22621.1555.55.1_a95a688)]
+    * Установить
+    * Нажать на панель задач ПКМ и выбрать "Свойства"
+    * В пункте "TaskBar" выбрать "TaskBar style : Windows 11"
+    * В пункте "Start Menu" поставить галочку у "Disable the Recommended section" 
+    * В левом нижнем углу нажать на "Restart File Explorer"
 * Git [[Скачать](https://git-scm.com/downloads)]
 * Inno Setup [[Скачать](https://jrsoftware.org/isdl.php)]
 * Minecraft [[Скачать не официально](https://tlauncher.org/)]
