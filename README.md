@@ -208,7 +208,7 @@
         * В открывшемся окне дать все разрешения
 * SketchUP
 * Steam [[Скачать](https://store.steampowered.com/?l=russian)]
-    * Войти в аккаунт...
+    * Войти в аккаунт t...a1 с почтой an...ir@gmail.com
 * Sublime Text [[Скачать](https://www.sublimetext.com/download)]
 * Vegas Pro 17 [[Скачать](https://www.sublimetext.com/download)]
     * Запустить setup.exe
