@@ -190,6 +190,9 @@
 * Mini Bin [[Скачать](https://minibin.ru.uptodown.com/windows)]
 * Mp3tag [[Скачать](https://www.mp3tag.de/en/download.html)]
 * Msi Afterburner [[Скачать](https://ru.msi.com/page/AFTERBURNER)]
+* Node JS [[Скачать](https://nodejs.org/en)]
+    * Перейти по пути "C:\Users\R\AppData\Roaming"
+    * Создать папку "npm"
 * NotePad++ [[Скачать](https://notepad-plus-plus.org/downloads/)]
 * OBS [[Скачать](https://obsproject.com/ru)]
 * PyCharm [[Скачать](https://www.jetbrains.com/ru-ru/)]
@@ -363,6 +366,10 @@
     9. Выберете нужный значок 
     10. Нажмите "Ок"
     11. Нажмите на ярлык ПКМ, выберите "Показать дополнительные параметры", нажмите на "Закрепить на панели задач"
+* Полностью отключить обновления Windows 10
+    * https://www.youtube.com/watch?v=XJcbe2nd_bY
+    * https://www.youtube.com/watch?v=gPxDV4B0nVs
+    * https://www.youtube.com/watch?v=Mm49T4NXQ90
 
 <a id="НастройкаAndroid"></a>
 
