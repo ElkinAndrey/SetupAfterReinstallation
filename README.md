@@ -1,17 +1,18 @@
 # Настройка после переустановки
 
-* [Настройка Windows](#НастройкаWindows)
-    * [Установка Windows 11 через флешку](#УстановкаWindows11черезфлешку)
-        * [Создание установочного носителя](#Созданиеустановочногоносителя)
-        * [Установка Windows](#УстановкаWindows)
-        * [Настройка Windows](#НастройкаWindows)
-    * [Настроить Google Chrome](#НастроитьGoogleChrome)
-    * [Скачивание программ](#Скачиваниепрограмм)
-    * [Настройка оформления Windows](#НастройкаоформленияWindows)
-        * [Оформление](#Оформление)
-        * [Инструкции](#Инструкции)
-* [Настройка Android](#НастройкаAndroid)
-    * [Установка приложений](#Установкаприложений)
+- [Настройка после переустановки](#настройка-после-переустановки)
+- [Настройка Windows](#настройка-windows)
+  - [Установка Windows 11 через флешку](#установка-windows-11-через-флешку)
+    - [Создание установочного носителя](#создание-установочного-носителя)
+    - [Установка Windows](#установка-windows)
+    - [Настройка Windows](#настройка-windows-1)
+  - [Настроить Google Chrome](#настроить-google-chrome)
+  - [Скачивание программ](#скачивание-программ)
+  - [Настройка оформления Windows](#настройка-оформления-windows)
+    - [Оформление](#оформление)
+    - [Инструкции](#инструкции)
+- [Настройка Android](#настройка-android)
+  - [Установка приложений](#установка-приложений)
 
 <a id="НастройкаWindows"></a>
 
@@ -166,6 +167,12 @@
 * Da Vinci Resolve [[Скачать](https://www.blackmagicdesign.com/products/davinciresolve)]
 * Desk Pins [[Скачать](https://deskpins.softonic.ru/)]
     * Запустить после установки
+    * Поменять сочетание клавишь активации окна
+        * Правой кнопкой мыши на DeskPins
+        * Options...
+        * Hotkeys
+        * Toggle active window pin
+        * Поменять на Ctrl + F10
 * Discord [[Скачать](https://discord.com/)]
     * Войти в аккаунт an...ir@gmail.com
 * Epic Games [[Скачать](https://www.epicgames.com/store/ru/)]
@@ -178,6 +185,7 @@
     * В левом нижнем углу нажать на "Restart File Explorer"
 * Git [[Скачать](https://git-scm.com/downloads)]
 * Inno Setup [[Скачать](https://jrsoftware.org/isdl.php)]
+* Logi Options+ [[Скачать](https://www.logitech.com/en-ph/software/logi-options-plus.html)]
 * Minecraft [[Скачать не официально](https://tlauncher.org/)]
 * Mini Bin [[Скачать](https://minibin.ru.uptodown.com/windows)]
 * Mp3tag [[Скачать](https://www.mp3tag.de/en/download.html)]
@@ -210,6 +218,7 @@
 * Steam [[Скачать](https://store.steampowered.com/?l=russian)]
     * Войти в аккаунт t...a1 с почтой an...ir@gmail.com
 * Sublime Text [[Скачать](https://www.sublimetext.com/download)]
+* Telegram [[Скачать](https://desktop.telegram.org/?setln=ru)]
 * Vegas Pro 17 [[Скачать](https://www.sublimetext.com/download)]
     * Запустить setup.exe
     * Указать папку установки
@@ -218,8 +227,26 @@
     * В разделе, в котором нужно указать папку, ввести в ручную папку, в которую была установлена программа
 * Visual Studio [[Скачать](https://visualstudio.microsoft.com/ru/)]
 * Visual Studio Code [[Скачать](https://code.visualstudio.com/)]
+    * Поменять язык
+        * Ctrl + Shift + P
+        * Ввести "Configure Display Language"
+        * Выбрать "русский"
+    * Убрать желтое выделение
+        * Настройки в левом нижнем углу
+        * Параметры
+        * Найти "Unicode Highlight: Non Basic ASCII"
+        * Поставить "false"
     * Расширения
+        * JavaScript and TypeScript Nightly
+        * Auto Import
+        * Auto Rename Tag
+        * ES7 React/Redux/GraphQL/React-Native snippets
+        * ES7+ React/Redux/React-Native snippets
+        * Import Cost
+        * JavaScript (ES6) code snippets
         * Markdown All in One
+        * Path Autocomplete
+        * Prettier - Code formatter
 * Wallpaper Engine [[Скачать](https://store.steampowered.com/app/431960/Wallpaper_Engine/)]
 * Warface [[Скачать](https://ru.warface.com/)]
 * Win Rar
@@ -250,7 +277,7 @@
         * Поведение панели задач
         * Выравнивание панели : слева
     5. Оставить только значки
-    <img style="width:400px" src="./Images/\CustomizingWindowsAppearance/1.png">
+    <img style="width:400px" src="./Images/CustomizingWindowsAppearance/1.png">
 * Изменить пуск
     * Открепить от начального экрана все приложения
     * Изменить настройки
