@@ -240,16 +240,19 @@
         * Найти "Unicode Highlight: Non Basic ASCII"
         * Поставить "false"
     * Расширения
-        * JavaScript and TypeScript Nightly
         * Auto Import
         * Auto Rename Tag
-        * ES7 React/Redux/GraphQL/React-Native snippets
         * ES7+ React/Redux/React-Native snippets
+        * ESLint
+        * Image preview
         * Import Cost
         * JavaScript (ES6) code snippets
+        * JavaScript and TypeScript Nightly
         * Markdown All in One
         * Path Autocomplete
+        * Path Intellisense
         * Prettier - Code formatter
+        * VSCode React Refactor
 * Wallpaper Engine [[Скачать](https://store.steampowered.com/app/431960/Wallpaper_Engine/)]
 * Warface [[Скачать](https://ru.warface.com/)]
 * Win Rar
