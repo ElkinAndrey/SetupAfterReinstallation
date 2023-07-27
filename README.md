@@ -242,6 +242,7 @@
     * Расширения
         * Auto Import
         * Auto Rename Tag
+        * Easy icon theme
         * ES7+ React/Redux/React-Native snippets
         * ESLint
         * Image preview
