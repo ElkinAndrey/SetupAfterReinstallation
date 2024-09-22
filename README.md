@@ -175,6 +175,9 @@
         * Поменять на Ctrl + F10
 * Discord [[Скачать](https://discord.com/)]
     * Войти в аккаунт an...ir@gmail.com
+* Docker [[Скачать](https://www.docker.com/)]
+    * Скачать Ubuntu в Microsoft Store
+    * Запустить установщик Docker
 * Epic Games [[Скачать](https://www.epicgames.com/store/ru/)]
     * Войти в аккаунт...
 * Explorer Patcher [[Скачать](https://github.com/valinet/ExplorerPatcher/releases/tag/22621.1555.55.1_a95a688)]
@@ -186,6 +189,7 @@
 * Git [[Скачать](https://git-scm.com/downloads)]
 * Inno Setup [[Скачать](https://jrsoftware.org/isdl.php)]
 * Logi Options+ [[Скачать](https://www.logitech.com/en-ph/software/logi-options-plus.html)]
+* Microsoft PowerToys [Скачать в Microsoft Store]
 * Minecraft [[Скачать не официально](https://tlauncher.org/)]
 * Mini Bin [[Скачать](https://minibin.ru.uptodown.com/windows)]
 * Mp3tag [[Скачать](https://www.mp3tag.de/en/download.html)]
@@ -254,7 +258,20 @@
         * vscode-pdf
 * Wallpaper Engine [[Скачать](https://store.steampowered.com/app/431960/Wallpaper_Engine/)]
 * Warface [[Скачать](https://ru.warface.com/)]
-* Win Rar
+* Windows Terminal [Скачать в Microsoft Store]
+    * Назначить терминалом по умолчанию
+        * Параметры
+        * Запуск
+        * Приложение терминала по умолчанию
+        * Установить "Терминал Windows"
+    * Поменять оформление
+        * Параметры
+        * По умолчанию
+        * Оформление
+        * Цветовая схема: One Half Dark
+        * Прозрачность: 88
+        * Включить акриловый материал 
+* WinRar
 * Wiz Tree [[Скачать](https://diskanalyzer.com/)]
 * Zoom [[Скачать](https://zoom.us/download)]
 
