@@ -234,6 +234,11 @@
     * В разделе, в котором нужно указать папку, ввести в ручную папку, в которую была установлена программа
 * Visual Studio [[Скачать](https://visualstudio.microsoft.com/ru/)]
 * Visual Studio Code [[Скачать](https://code.visualstudio.com/)]
+    * Отключить автоматическое открытие проектов при повторном запуске
+        * Настройки в левом нижнем углу
+        * Параметры
+        * Найти "window.restoreWindows"
+        * Поставить "none"
     * Поменять язык
         * Ctrl + Shift + P
         * Ввести "Configure Display Language"
