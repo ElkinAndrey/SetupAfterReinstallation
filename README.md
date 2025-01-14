@@ -271,6 +271,81 @@
         * Prettier - Code formatter
         * Remote - SSH
         * vscode-pdf
+    * Сниппеты (ReactJS.code-snippets)
+```
+    {
+	"Import classes": {
+		"prefix": "cls",
+		"body": [
+			"import classes from \"./${TM_FILENAME_BASE}.module.css\"",
+		],
+		"description": "Создать импорт класса"
+	},
+	"Import PropTypes": {
+		"prefix": "pt",
+		"body": [
+			"import PropTypes from \"prop-types\";",
+		],
+		"description": "Создать импорт propTypes"
+	},
+	"Create useState": {
+		"prefix": "us",
+		"body": [
+			"const [${1:}, se${2:}t${1:}] = useState()",
+		],
+		"description": "Создать useState"
+	},
+	"Create func": {
+		"prefix": "fn",
+		"body": [
+			"const ${1:} = () => {",
+			"  return \"\"",
+			"}",
+		],
+		"description": "Создать функцию"
+	},
+	"Create className": {
+		"prefix": "cln",
+		"body": [
+			"className={classes.${1:}}",
+		],
+		"description": "Создать функцию"
+	},
+	"Create useFetcing": {
+		"prefix": "uf",
+		"body": [
+			"const callback${1:} = async () => {",
+			"",
+			"}",
+			"",
+			"const [fetch${1:}] = useFetching(callback${1:})",
+			"",
+			"useEffect(()=>{",
+			"  fetch${1:}()",
+			"}, [])",
+		],
+		"description": "Создать функцию"
+	},
+	"Create component": {
+		"prefix": "cmp",
+		"body": [
+			"import React from \"react\";",
+			"import classes from \"./${TM_FILENAME_BASE}.module.css\";",
+			"import PropTypes from \"prop-types\";",
+			"",
+			"function ${TM_FILENAME_BASE}() {",
+			"  return <div>${TM_FILENAME_BASE}</div>;",
+			"}",
+			"",
+			"${TM_FILENAME_BASE}.propTypes = {};",
+			"",
+			"export default ${TM_FILENAME_BASE};",
+			"",
+		],
+		"description": "Создать компонент"
+	},
+}
+``` 
 * Wallpaper Engine [[Скачать](https://store.steampowered.com/app/431960/Wallpaper_Engine/)]
 * Warface [[Скачать](https://ru.warface.com/)]
 * Windows Terminal [Скачать в Microsoft Store]
