@@ -398,6 +398,23 @@
         * Включить
             * Открывать пуск в полноэкранном режиме
     * Добавить все нужные приложения
+* Убрать "Рекомендации" из меню пуск
+    * Создать файл .reg
+    * Вписать в файл код
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\current\device\Start]
+"HideRecommendedSection"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\current\device\Education]
+"IsEducationEnvironment"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Explorer]
+"HideRecommendedSection"=dword:00000001
+```
+    * Запустить файл
+    * Перезагрузить компьютер
 * Изменить обои
 * Перекинуть с флешки все старые файлы
 * Поменять открытие "Проводника" на открытие "Этого компьютера"
