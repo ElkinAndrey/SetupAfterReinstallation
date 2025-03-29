@@ -412,7 +412,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Explorer]
 "HideRecommendedSection"=dword:00000001
-```
+``` 
     * Запустить файл
     * Перезагрузить компьютер
 * Изменить обои
