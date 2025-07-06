@@ -258,6 +258,11 @@
         * Параметры
         * Найти "Unicode Highlight: Non Basic ASCII"
         * Поставить "false"
+    * Убрать "Компактные папки"
+        * Настройки в левом нижнем углу
+        * Параметры
+        * Найти "Explorer: Compact Folders"
+        * Поставить "false"
     * Расширения
         * Auto Rename Tag
         * Easy icon theme
