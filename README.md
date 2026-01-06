@@ -137,17 +137,24 @@
 	* Поставить "false"
 * Расширения
 	* Auto Rename Tag
+  	* CSS Var Complete
+  	* Database Client JDBC
 	* Easy icon theme
 	* ES7+ React/Redux/React-Native snippets
 	* ESLint
+	* Git Graph
+	* Git Lens 
 	* Image preview
 	* Import Cost
+  	* JavaScript (ES6) code snippets
+  	* Live Server
 	* Markdown All in One
 	* markdownlint
-	* PostgreSQL
+   	* OpenAPI (Swagger) Editor
 	* Prettier - Code formatter
 	* Remote - SSH
-	* vscode-pdf
+ 	* Sort lines
+  	* Svg Preview
 * Сниппеты (ReactJS.code-snippets)
 
 <a id="скачивание-программ"></a>
