@@ -221,6 +221,7 @@
     * Создать папку "npm"
 * NotePad++ [[Скачать](https://notepad-plus-plus.org/downloads/)]
 * OBS [[Скачать](https://obsproject.com/ru)]
+* OneDrive
 * Opera GX
 * Postman
 * PowerToys
