@@ -6,14 +6,15 @@
     - [Установка Windows](#установка-windows)
     - [Настройка Windows](#настройка-windows-1)
   - [Настроить Google Chrome](#настроить-google-chrome)
+  - [Настроить VS Code](#настроить-vs-code)
   - [Скачивание программ](#скачивание-программ)
   - [Настройка оформления Windows](#настройка-оформления-windows)
 
-<a id="НастройкаWindows"></a>
+<a id="настройка-windows"></a>
 
 # Настройка Windows
 
-<a id="УстановкаWindows11черезфлешку"></a>
+<a id="установка-windows-11-через-флешку"></a>
 
 ## Установка Windows 11 через флешку
 
@@ -101,7 +102,55 @@
     * Убрать галочку с пункта "Использовать аппаратное ускорение (при наличии)"
     * Перезапустить
 
-<a id="Скачиваниепрограмм"></a>
+<a id="настроить-vs-code"></a>
+
+## Настроить VS Code
+
+* Поменять язык
+	* Ctrl + Shift + P
+	* Ввести "Configure Display Language"
+	* Выбрать "русский"
+* Отключить появление уведомлений "Разрешить ненадежные файлы в этом окне?"
+	* Настройки в левом нижнем углу
+	* Параметры
+	* Найти "security.workspace.trust.enabled"
+	* Убрать галочку
+* Отключить появление приветствия при запуске
+	* Настройки в левом нижнем углу
+	* Параметры
+	* Найти "workbench.startupEditor"
+	* Поставить "none"
+* Отключить автоматическое открытие проектов при повторном запуске
+	* Настройки в левом нижнем углу
+	* Параметры
+	* Найти "window.restoreWindows"
+	* Поставить "none"
+* Убрать желтое выделение
+	* Настройки в левом нижнем углу
+	* Параметры
+	* Найти "Unicode Highlight: Non Basic ASCII"
+	* Поставить "false"
+* Убрать "Компактные папки"
+	* Настройки в левом нижнем углу
+	* Параметры
+	* Найти "Explorer: Compact Folders"
+	* Поставить "false"
+* Расширения
+	* Auto Rename Tag
+	* Easy icon theme
+	* ES7+ React/Redux/React-Native snippets
+	* ESLint
+	* Image preview
+	* Import Cost
+	* Markdown All in One
+	* markdownlint
+	* PostgreSQL
+	* Prettier - Code formatter
+	* Remote - SSH
+	* vscode-pdf
+* Сниппеты (ReactJS.code-snippets)
+
+<a id="скачивание-программ"></a>
 
 ## Скачивание программ
 
@@ -150,12 +199,14 @@
     * В пункте "TaskBar" выбрать "TaskBar style : Windows 11"
     * В пункте "Start Menu" поставить галочку у "Disable the Recommended section" 
     * В левом нижнем углу нажать на "Restart File Explorer"
+* Firefox
 * Git [[Скачать](https://git-scm.com/downloads)]
 * Inno Setup [[Скачать](https://jrsoftware.org/isdl.php)]
 * Logi Options+ [[Скачать](https://www.logitech.com/en-ph/software/logi-options-plus.html)]
 * Microsoft PowerToys [Скачать в Microsoft Store]
 * Minecraft [[Скачать не официально](https://tlauncher.org/)]
 * Mini Bin [[Скачать](https://minibin.ru.uptodown.com/windows)]
+* MobaXterm
 * Mp3tag [[Скачать](https://www.mp3tag.de/en/download.html)]
 * Msi Afterburner [[Скачать](https://ru.msi.com/page/AFTERBURNER)]
 * Node JS [[Скачать](https://nodejs.org/en)]
@@ -163,6 +214,16 @@
     * Создать папку "npm"
 * NotePad++ [[Скачать](https://notepad-plus-plus.org/downloads/)]
 * OBS [[Скачать](https://obsproject.com/ru)]
+* Opera GX
+* Postman
+* PowerToys
+	* Включить эти функции
+ 		* Изменение размера изображений
+   		* Обзор
+     	* Расширенная вставка
+      	* Цветоподборщик
+      	* File Locksmith
+      	* PowerRename 
 * PyCharm [[Скачать](https://www.jetbrains.com/ru-ru/)]
 * Python [[Скачать](https://www.python.org/downloads/)]
 * QBitTorrent [[Скачать](https://www.fosshub.comqBittorrent.html)]
@@ -198,123 +259,7 @@
     * В разделе, в котором нужно указать папку, ввести в ручную папку, в которую была установлена программа
 * Visual Studio [[Скачать](https://visualstudio.microsoft.com/ru/)]
 * Visual Studio Code [[Скачать](https://code.visualstudio.com/)]
-    * Поменять язык
-        * Ctrl + Shift + P
-        * Ввести "Configure Display Language"
-        * Выбрать "русский"
-    * Отключить появление уведомлений "Разрешить ненадежные файлы в этом окне?"
-        * Настройки в левом нижнем углу
-        * Параметры
-        * Найти "security.workspace.trust.enabled"
-        * Убрать галочку
-    * Отключить появление приветствия при запуске
-        * Настройки в левом нижнем углу
-        * Параметры
-        * Найти "workbench.startupEditor"
-        * Поставить "none"
-    * Отключить автоматическое открытие проектов при повторном запуске
-        * Настройки в левом нижнем углу
-        * Параметры
-        * Найти "window.restoreWindows"
-        * Поставить "none"
-    * Убрать желтое выделение
-        * Настройки в левом нижнем углу
-        * Параметры
-        * Найти "Unicode Highlight: Non Basic ASCII"
-        * Поставить "false"
-    * Убрать "Компактные папки"
-        * Настройки в левом нижнем углу
-        * Параметры
-        * Найти "Explorer: Compact Folders"
-        * Поставить "false"
-    * Расширения
-        * Auto Rename Tag
-        * Easy icon theme
-        * ES7+ React/Redux/React-Native snippets
-        * ESLint
-        * Image preview
-        * Import Cost
-        * Markdown All in One
-        * markdownlint
-        * PostgreSQL
-        * Prettier - Code formatter
-        * Remote - SSH
-        * vscode-pdf
-    * Сниппеты (ReactJS.code-snippets)
-```
-    {
-	"Import classes": {
-		"prefix": "cls",
-		"body": [
-			"import classes from \"./${TM_FILENAME_BASE}.module.css\"",
-		],
-		"description": "Создать импорт класса"
-	},
-	"Import PropTypes": {
-		"prefix": "pt",
-		"body": [
-			"import PropTypes from \"prop-types\";",
-		],
-		"description": "Создать импорт propTypes"
-	},
-	"Create useState": {
-		"prefix": "us",
-		"body": [
-			"const [${1:}, se${2:}t${1:}] = useState()",
-		],
-		"description": "Создать useState"
-	},
-	"Create func": {
-		"prefix": "fn",
-		"body": [
-			"const ${1:} = () => {",
-			"  return \"\"",
-			"}",
-		],
-		"description": "Создать функцию"
-	},
-	"Create className": {
-		"prefix": "cln",
-		"body": [
-			"className={classes.${1:}}",
-		],
-		"description": "Создать функцию"
-	},
-	"Create useFetcing": {
-		"prefix": "uf",
-		"body": [
-			"const callback${1:} = async () => {",
-			"",
-			"}",
-			"",
-			"const [fetch${1:}] = useFetching(callback${1:})",
-			"",
-			"useEffect(()=>{",
-			"  fetch${1:}()",
-			"}, [])",
-		],
-		"description": "Создать функцию"
-	},
-	"Create component": {
-		"prefix": "cmp",
-		"body": [
-			"import React from \"react\";",
-			"import classes from \"./${TM_FILENAME_BASE}.module.css\";",
-			"import PropTypes from \"prop-types\";",
-			"",
-			"function ${TM_FILENAME_BASE}() {",
-			"  return <div>${TM_FILENAME_BASE}</div>;",
-			"}",
-			"",
-			"${TM_FILENAME_BASE}.propTypes = {};",
-			"",
-			"export default ${TM_FILENAME_BASE};",
-			"",
-		],
-		"description": "Создать компонент"
-	},
-}
-``` 
+* Virtual Box
 * Wallpaper Engine [[Скачать](https://store.steampowered.com/app/431960/Wallpaper_Engine/)]
 * Warface [[Скачать](https://ru.warface.com/)]
 * Windows Terminal [Скачать в Microsoft Store]
@@ -331,7 +276,10 @@
         * Прозрачность: 88
         * Включить акриловый материал 
 * WinRar
+* WinSCP
+* WireGuard [[Скачать](https://www.wireguard.com/)]
 * Wiz Tree [[Скачать](https://diskanalyzer.com/)]
+* Yandex
 * Zoom [[Скачать](https://zoom.us/download)]
 
 <a id="НастройкаоформленияWindows"></a>
