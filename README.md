@@ -210,7 +210,6 @@
 * Git [[Скачать](https://git-scm.com/downloads)]
 * Inno Setup [[Скачать](https://jrsoftware.org/isdl.php)]
 * Logi Options+ [[Скачать](https://www.logitech.com/en-ph/software/logi-options-plus.html)]
-* Microsoft PowerToys [Скачать в Microsoft Store]
 * Minecraft [[Скачать не официально](https://tlauncher.org/)]
 * Mini Bin [[Скачать](https://minibin.ru.uptodown.com/windows)]
 * MobaXterm
@@ -412,15 +411,16 @@
     9. Выберете нужный значок 
     10. Нажмите "Ок"
     11. Нажмите на ярлык ПКМ, выберите "Показать дополнительные параметры", нажмите на "Закрепить на панели задач"
-* Полностью отключить обновления Windows 10
-    * https://www.youtube.com/watch?v=XJcbe2nd_bY
-    * https://www.youtube.com/watch?v=gPxDV4B0nVs
-    * https://www.youtube.com/watch?v=Mm49T4NXQ90
 * Добавить кнопку Bluetooth в панели задач
     * Открыть "Панель управления"
     * В поисковой строке ввести "Bluetooth"
     * Нажать на пункт "Изменение параметров Bluetooth"
     * В открывшемся окне в разделе "Параметры" включить галочку "Отображать значок Bluetooth в области уведомлений"
     * Нажать кнопку "Ок"
+* Добавить кнопку "Завершить задачу" в панели задач
+	* Параметры
+ 	* Система
+  	* Дополнительно
+  	* Поставить галочку "Завершить задачу"
 
 <a id="НастройкаAndroid"></a>
