@@ -210,6 +210,9 @@
 * Git [[Скачать](https://git-scm.com/downloads)]
 * Inno Setup [[Скачать](https://jrsoftware.org/isdl.php)]
 * Logi Options+ [[Скачать](https://www.logitech.com/en-ph/software/logi-options-plus.html)]
+* Microsoft Office
+	* Скачать с официального сайта https://www.microsoft.com/en-us/microsoft-365/download-office
+ 	* В PowerShell ввести "irm get.activated.win | iex" и выбрать активацию офиса
 * Minecraft [[Скачать не официально](https://tlauncher.org/)]
 * Mini Bin [[Скачать](https://minibin.ru.uptodown.com/windows)]
 * MobaXterm
